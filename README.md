@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyanshthakur
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me ranu10072000@gmail.com
 
 <!---
