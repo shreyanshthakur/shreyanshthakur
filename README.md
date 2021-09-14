@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyanshthakur
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning DS ALGO
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me ranu10072000@gmail.com
 
