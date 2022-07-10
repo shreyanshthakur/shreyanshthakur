@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning DS ALGO
 - 💞️ I’m looking to collaborate on Android projects
-- 📫 How to reach me ranu10072000@gmail.com
+- 📫 How to reach me thakur.shreyansh11@gmail.com
 
 <!---
 shreyanshthakur/shreyanshthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
