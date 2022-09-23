@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyanshthakur
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently practising Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me thakur.shreyansh11@gmail.com
 
