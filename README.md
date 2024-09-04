@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyanshthakur
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Node.JS
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me thakur.shreyansh11@gmail.com
 
